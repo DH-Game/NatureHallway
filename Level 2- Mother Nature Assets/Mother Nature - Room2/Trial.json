@@ -1,0 +1,222 @@
+[
+	{
+		"title": "trialstart",
+		"tags": "",
+		"body": "These women are all on trial for the most heinous crime imaginable...\nPromiscuity in the first degree!\nWe will start by calling Hester Prynne to the stand!\n[[Oh no! Not Hester!|hestertrial]][[It's okay! I'll help her!|hestertrial]]",
+		"position": {
+			"x": 411,
+			"y": 191
+		},
+		"colorID": 0
+	},
+	{
+		"title": "hestertrial",
+		"tags": "",
+		"body": "<<hestertrial>> ",
+		"position": {
+			"x": 139,
+			"y": 198
+		},
+		"colorID": 0
+	},
+	{
+		"title": "hestertrialstart",
+		"tags": "",
+		"body": "Hester Prynne, you stand accused of having a child out of wedlock!\nDo you have anything to say on her behalf?\n[[That was forever ago! She's suffered enough!|hesterwrong]] [[There is no excuse for her actions|hesterright]]",
+		"position": {
+			"x": -92,
+			"y": 190
+		},
+		"colorID": 0
+	},
+	{
+		"title": "hesterwrong",
+		"tags": "",
+		"body": "<<hesterwrong>>",
+		"position": {
+			"x": -361,
+			"y": 32
+		},
+		"colorID": 0
+	},
+	{
+		"title": "hesterright",
+		"tags": "",
+		"body": "<<hesterright>>",
+		"position": {
+			"x": -359,
+			"y": 276
+		},
+		"colorID": 0
+	},
+	{
+		"title": "normal",
+		"tags": "",
+		"body": "<<hesternormal>>",
+		"position": {
+			"x": -921,
+			"y": 187
+		},
+		"colorID": 0
+	},
+	{
+		"title": "hesterwrong2",
+		"tags": "",
+		"body": "What?! How dare you stand up for this whore!\nYou deserve to suffer just like her!\nHester Prynne, for your crimes I sentence you...\nto belong to this man!\nShe's your problem now!\n[[Oh thank goodness!|normal]] [[What? she can't belong to anyone!|hesterwrong3]]",
+		"position": {
+			"x": -619,
+			"y": 15
+		},
+		"colorID": 0
+	},
+	{
+		"title": "hesterright2",
+		"tags": "",
+		"body": "That's right!\nUs men can't control ourselves...\nbut women should keep their legs CLOSED!\nHester Prynne, for your crimes, I sentence you...\nto DEATH!\n[[No!!!!|normal]][[*phew* At least it's not me!|normal]] ",
+		"position": {
+			"x": -623,
+			"y": 336
+		},
+		"colorID": 0
+	},
+	{
+		"title": "hesterwrong3",
+		"tags": "",
+		"body": "<<hesterwrong3>> ",
+		"position": {
+			"x": -910,
+			"y": -107
+		},
+		"colorID": 0
+	},
+	{
+		"title": "bunnytrialstart1",
+		"tags": "",
+		"body": "Now that she's taken care of...\nI call to the stand...\nBunny!\n[[Bunny?|bunnytrialstart]][[Not another one...|bunnytrialstart]]",
+		"position": {
+			"x": 665,
+			"y": 178
+		},
+		"colorID": 0
+	},
+	{
+		"title": "bunnytrialstart",
+		"tags": "",
+		"body": "<<bunnytrial>>",
+		"position": {
+			"x": 924,
+			"y": 191
+		},
+		"colorID": 0
+	},
+	{
+		"title": "bunnytrial",
+		"tags": "",
+		"body": "Bunny, you stand here accused of an even worse crime than Miss Prynne!\nYou sold pictures of yourself in the nude for money!\nYou wore skimpy outfits to entertain men for money!\nAnd worst of all...\nYou didn't do any of this for free even when we were nice to you!\nWhat do you have to say for her?!\n[[Women have the right to say no to you!|bunnywrong]][[Sluts must die!|bunnyright]] ",
+		"position": {
+			"x": 1156,
+			"y": 200
+		},
+		"colorID": 0
+	},
+	{
+		"title": "bunnywrong",
+		"tags": "",
+		"body": "<<bunnywrong>> ",
+		"position": {
+			"x": 1408,
+			"y": 54
+		},
+		"colorID": 0
+	},
+	{
+		"title": "bunnyright",
+		"tags": "",
+		"body": "<<bunnyright>>",
+		"position": {
+			"x": 1405,
+			"y": 295
+		},
+		"colorID": 6
+	},
+	{
+		"title": "bunnywrong2",
+		"tags": "",
+		"body": "Oh hell no!\nNice men deserve sexual favors!\nEven if that makes her a slut!\nThat's it!\nBunny! I sentence you...\nTo be sent to a convent!\n[[That's not fair!|bunnywrong3]][[I hope she learns her lesson...|bunnynormal]] ",
+		"position": {
+			"x": 1638,
+			"y": 0
+		},
+		"colorID": 0
+	},
+	{
+		"title": "bunnywrong3",
+		"tags": "",
+		"body": "<<bunnywrong3>> ",
+		"position": {
+			"x": 1910,
+			"y": -118
+		},
+		"colorID": 0
+	},
+	{
+		"title": "bunnynormal",
+		"tags": "",
+		"body": "<<bunnynormal>> ",
+		"position": {
+			"x": 1911,
+			"y": 202
+		},
+		"colorID": 0
+	},
+	{
+		"title": "bunnyright2",
+		"tags": "",
+		"body": "Good man!\nThis is a horror afterall...\nand in horror...\nSexuality equals death!\nBunny, I sentence you...\nto DEATH!\n[[No!!!!|bunnynormal]][[She deserves it!|bunnynormal]] ",
+		"position": {
+			"x": 1641,
+			"y": 361
+		},
+		"colorID": 0
+	},
+	{
+		"title": "hesterwrong4",
+		"tags": "",
+		"body": "Oh yes she can!\nNow shut up and let the real men take care of this!\n[[Yes, sir!|normal]][[...|normal]] ",
+		"position": {
+			"x": -1188,
+			"y": 179
+		},
+		"colorID": 0
+	},
+	{
+		"title": "bunnywrong4",
+		"tags": "",
+		"body": "Yes it is!\nNow silence before I sentence you to chastity as well!\n[[Yes, sir!|bunnynormal]] [[...|bunnynormal]] ",
+		"position": {
+			"x": 2192,
+			"y": 197
+		},
+		"colorID": 0
+	},
+	{
+		"title": "trialend2",
+		"tags": "",
+		"body": "<<trialend>>",
+		"position": {
+			"x": 650,
+			"y": -57
+		},
+		"colorID": 0
+	},
+	{
+		"title": "trialend",
+		"tags": "",
+		"body": "The trial is now over!\nI hope you've learned your place young man!\nThough I'll admit...\nThat is an excellent mustache...\n[[I definitely have...|trialend2]] [[Uh, thanks...|trialend2]] ",
+		"position": {
+			"x": 645,
+			"y": -282
+		},
+		"colorID": 0
+	}
+]

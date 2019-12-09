@@ -1,0 +1,312 @@
+[
+	{
+		"title": "gotocourt",
+		"tags": "",
+		"body": "Enter court?\n[[Yes|entercourt]] [[Not yet|endcourt]]",
+		"position": {
+			"x": 485,
+			"y": -455
+		},
+		"colorID": 0
+	},
+	{
+		"title": "entercourt",
+		"tags": "",
+		"body": "<<entercourt>> ",
+		"position": {
+			"x": 216,
+			"y": -444
+		},
+		"colorID": 0
+	},
+	{
+		"title": "endcourt",
+		"tags": "",
+		"body": "<<endcourt>> ",
+		"position": {
+			"x": 738,
+			"y": -443
+		},
+		"colorID": 0
+	},
+	{
+		"title": "pearlspeech",
+		"tags": "",
+		"body": "Hi! I'm Pearl!\nWhat's your name?\n[[Answer her...|answerpearl]] [[Don't answer her...|dontanswerpearl]]",
+		"position": {
+			"x": 570,
+			"y": 140
+		},
+		"colorID": 0
+	},
+	{
+		"title": "answerpearl",
+		"tags": "",
+		"body": "That's a funny name!\nYou're kind of funny looking too...\nYou don't seem mean like everyone else in town...\nNo one seems to like me...\nThe other kids aren't even allowed to play with me...\nI wonder if it's because I don't have a daddy...\n[[I'm sorry they are so awful...|pearlsorry]] [[Don't you know single mothers are always evil in horror...|pearlmean]] ",
+		"position": {
+			"x": 564,
+			"y": -99
+		},
+		"colorID": 0
+	},
+	{
+		"title": "dontanswerpearl",
+		"tags": "",
+		"body": "Oh...okay...\nYou must not like me like the rest of the town...\nThe other kids aren't even allowed to play with me...\nI wonder if it's because I don't have a daddy...\n[[Oh I'm sorry...|pearlsorry]][[Don't you know single mothers are always evil in horror...|pearlmean]] ",
+		"position": {
+			"x": 576,
+			"y": 381
+		},
+		"colorID": 0
+	},
+	{
+		"title": "pearlsorry",
+		"tags": "",
+		"body": "<<hesterarrive>> ",
+		"position": {
+			"x": 339,
+			"y": 142
+		},
+		"colorID": 0
+	},
+	{
+		"title": "pearlmean",
+		"tags": "",
+		"body": "<<hesterarrive>> ",
+		"position": {
+			"x": 798,
+			"y": 140
+		},
+		"colorID": 0
+	},
+	{
+		"title": "hesterspeech",
+		"tags": "",
+		"body": "PEARL!!!\nCome here! I told you not to talk to anyone from town!\nOh...Sorry...\nI didn't see you at first...\nI hope my daughter isn't bothering you...\n[[A little...|hestermean]][[Not at all...|hesternice]] ",
+		"position": {
+			"x": 1270,
+			"y": 136
+		},
+		"colorID": 0
+	},
+	{
+		"title": "hestermean",
+		"tags": "",
+		"body": "I'm so sorry...\nI know most people don't want to talk to us...\nEspecially since I'm an adultress...\nThat's why I wear this red \"A\"...\nIn fact...I'm supposed to go to court later...\nThey are trying me for my crime...\n[[How can I help?|hesterhelp]][[Sucks for you...|hesterignore]]",
+		"position": {
+			"x": 1261,
+			"y": -131
+		},
+		"colorID": 0
+	},
+	{
+		"title": "hesternice",
+		"tags": "",
+		"body": "Oh thank the Lord...\nI appreciate your kindness...\nNot everyone is so good to us...\nYou see...I had Pearl with a man who was not my husband...\nThat's why I have to wear this scarlet \"A\" on my dress...\nIt stands for \"Adultress\"...\nIn fact...I'm supposed to go to court later...\nThey are trying me for my crime...\n[[How can I help?|hesterhelp]][[Oof that's rough...|hesterignore]] ",
+		"position": {
+			"x": 1273,
+			"y": 402
+		},
+		"colorID": 0
+	},
+	{
+		"title": "hesterhelp",
+		"tags": "",
+		"body": "Oh thank you so much!\nYou could help by testifying for me at court!\nOf course...\nYou'll have to dress like a man for them to take you seriously...\n[[Anything to help a fellow woman!|playerchange]][[No way! Help yourself!|playerignore]] ",
+		"position": {
+			"x": 1026,
+			"y": 141
+		},
+		"colorID": 0
+	},
+	{
+		"title": "hesterignore",
+		"tags": "",
+		"body": "Oh...okay...\nWell if you change your mind...\nI'll be here...\nYou'll have to dress up like a man for them to take you seriously..\nSo let me know...\n[[I've decided I'll help you!|playerchange]][[Yeah right...|playerignore]] ",
+		"position": {
+			"x": 1491,
+			"y": 133
+		},
+		"colorID": 0
+	},
+	{
+		"title": "playerchange",
+		"tags": "",
+		"body": "<<playerchange>> ",
+		"position": {
+			"x": 1273,
+			"y": 642
+		},
+		"colorID": 0
+	},
+	{
+		"title": "playerignore",
+		"tags": "",
+		"body": "<<playerignore>> ",
+		"position": {
+			"x": 1252,
+			"y": -383
+		},
+		"colorID": 0
+	},
+	{
+		"title": "hesteragain",
+		"tags": "",
+		"body": "Oh! Are you willing to help now?\nOf course...\nYou'll have to dress like a man for them to take you seriously...\n[[Absolutely!|playerchange]] [[No way!|playerignore]] ",
+		"position": {
+			"x": 1722,
+			"y": 137
+		},
+		"colorID": 0
+	},
+	{
+		"title": "dryadSLinteract",
+		"tags": "",
+		"body": "What do you want?\n[[Let's chat!|dryadchat]][[I need help...|dryadhelp]][[Nothing...|leave]]  ",
+		"position": {
+			"x": -613,
+			"y": 134
+		},
+		"colorID": 0
+	},
+	{
+		"title": "dryadchat",
+		"tags": "",
+		"body": "<<startdryadchat>> ",
+		"position": {
+			"x": -865,
+			"y": 135
+		},
+		"colorID": 0
+	},
+	{
+		"title": "dryadhelp",
+		"tags": "",
+		"body": "<<startdryadhelp>> ",
+		"position": {
+			"x": -364,
+			"y": 137
+		},
+		"colorID": 0
+	},
+	{
+		"title": "leave",
+		"tags": "",
+		"body": "<<leave>> ",
+		"position": {
+			"x": -619,
+			"y": -145
+		},
+		"colorID": 0
+	},
+	{
+		"title": "dryadchat2",
+		"tags": "",
+		"body": "All the men here are so perfect...\nThey are all masculine and in charge...\nIf only the dresses for women weren't so ugly!\nAt least they are modest...\n[[This is true...|dryadchatend]][[Are you serious right now?|dryadchatend]] ",
+		"position": {
+			"x": -1086,
+			"y": 131
+		},
+		"colorID": 0
+	},
+	{
+		"title": "dryadchat1",
+		"tags": "",
+		"body": "I hate it here in Boston...\nEverything is so dry...\n[[Boston huh?|dryadchatend]][[I'm grateful it's not raining...|dryadchatend]] ",
+		"position": {
+			"x": -1084,
+			"y": -97
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Node23",
+		"tags": "",
+		"body": "Thank Gaia for laws!\nHumans would run rampant if it weren't for the law...\nYou better rethink your morality!\n[[I'll keep that in mine...|dryadchatend]][[I'm trying...|dryadchatend]] ",
+		"position": {
+			"x": -1089,
+			"y": 358
+		},
+		"colorID": 0
+	},
+	{
+		"title": "dryadhelp1",
+		"tags": "",
+		"body": "Try heading to the courtroom...\nYou'll need to disguise yourself as a man first though...\nEven if it is horribly undignified!\n[[It is terrible...|dryadhelpend]] [[Ugh...|dryadhelpend]] ",
+		"position": {
+			"x": -132,
+			"y": -99
+		},
+		"colorID": 0
+	},
+	{
+		"title": "dryadhelp2",
+		"tags": "",
+		"body": "Make sure and do whatever the men say...\nIt's so much easier that way!\nAnd safer...\n[[Hmmmm...|dryadhelpend]][[I always do what men say!|dryadhelpend]] ",
+		"position": {
+			"x": -137,
+			"y": 136
+		},
+		"colorID": 0
+	},
+	{
+		"title": "dryadhelp3",
+		"tags": "",
+		"body": "Make sure and avoid that terrible woman over there...\nShe's so protective be her daughter...\nShe should really ashamed more than anything...\n[[Okay then...|dryadhelpend]] [[She seems nice...|dryadhelpend]]",
+		"position": {
+			"x": -139,
+			"y": 389
+		},
+		"colorID": 0
+	},
+	{
+		"title": "dryadhelpend",
+		"tags": "",
+		"body": "<<dryadhelpend>> ",
+		"position": {
+			"x": 104,
+			"y": 135
+		},
+		"colorID": 0
+	},
+	{
+		"title": "dryadchatend",
+		"tags": "",
+		"body": "<<dryadchatend>> ",
+		"position": {
+			"x": -1355,
+			"y": 124
+		},
+		"colorID": 0
+	},
+	{
+		"title": "entercourtno",
+		"tags": "",
+		"body": "Women aren't allowed...",
+		"position": {
+			"x": -62,
+			"y": -418
+		},
+		"colorID": 0
+	},
+	{
+		"title": "entercourtyes",
+		"tags": "",
+		"body": "Entering court...",
+		"position": {
+			"x": -299,
+			"y": -418
+		},
+		"colorID": 0
+	},
+	{
+		"title": "endcourt1",
+		"tags": "",
+		"body": "Maybe later...",
+		"position": {
+			"x": 964,
+			"y": -450
+		},
+		"colorID": 0
+	}
+]
